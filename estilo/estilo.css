@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    font-size: 76px;
+    top: 50%;
+    left: 35%;
+    color: #fff;
+    opacity: .3;
+     
+    
+   }
+   
+   a:hover{
+    opacity: 1;
+    color: rgb(172, 207, 143);
+    
+   }
+   body{
+    background-image: url(../media/inicio.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
